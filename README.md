@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Safiul Azam
 #### Jr.Fontend web developer || Jr.Full stack web developer || Jr.React web developer
-![Jr.Fontend web developer || Jr.Full stack web developer || Jr.React web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Jr.Fontend web developer || Jr.Full stack web developer || Jr.React web developer]
 
 This is Safiul Azam. And dedicated, efficient, and passionate Front end web developer. Despite being a non-technical student. Even then, my passion works in this field. Because coding is my passion. I have worked on some projects. If anyone wants to know about me, please contact me. I look forward to talking to you.
 Thank You,
