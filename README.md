@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Safiul Azam
-#### Fontend web developer
-![Fontend web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there 👋, My name is Safiul Azam
+## Fontend web developer
+
 
 
 This is Safi. And I am a dedicated, efficient, and passionate Front end web developer. Despite being a non-technical student I love coding, cause my passion works in this field. And then creating something new and knowing something new makes me happy. And I know this thing is more in this field.I have worked on some projects. If anyone wants to know about me, please contact me. I look forward to talking to you.
