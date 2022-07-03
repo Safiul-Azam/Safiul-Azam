@@ -16,14 +16,7 @@ Skills: REACT / JS / HTML / CSS/ TailWind / Bootstrap / React Query / Node / Exp
 - 📫 How to reach me: by Linkiden 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Safiul-Azam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safiul-azam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/safiul.azam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://safiul-azam.netlify.app/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Safiul-Azam&show_icons=true&count_private=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Safiul-Azam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safiul-azam-b2a44a212//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/safiul.azam.587/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://safiul-azam.netlify.app/)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam)  
 
-![GitHub metrics](https://metrics.lecoq.io/Safiul-Azam)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Safiul-Azam)  
-
-![Profile views](https://gpvc.arturio.dev/Safiul-Azam)  
