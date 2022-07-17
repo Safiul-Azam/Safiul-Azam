@@ -17,8 +17,6 @@ Skills: REACT / JS / HTML / CSS/ TailWind / Bootstrap / React Query / Node / Exp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam)](https://github.com/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Safiul-Azam&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Safiul-Azam)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Safiul-Azam)  
