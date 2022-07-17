@@ -15,7 +15,7 @@ Skills: REACT / JS / HTML / CSS/ TailWind / Bootstrap / React Query / Node / Exp
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Safiul-Azam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safiul-azam-b2a44a212//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/safiul.azam.587/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://safiul-azam.netlify.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam)](https://github.com/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Safiul-Azam&show_icons=true)  
 
