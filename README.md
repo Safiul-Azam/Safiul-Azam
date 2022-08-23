@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
+<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/RNrR5Qs/cover-photo.png" alt="" /> </a>
 
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Al Mamun Khan</h1>
 
