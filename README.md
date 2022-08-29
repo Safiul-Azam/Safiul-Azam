@@ -12,7 +12,7 @@
 
 💬 Ask me about **Web Developement**
 
-📫 How to reach me: safiulazamriad@gmail.com
+📫 How to reach me: **safiulazamriad@gmail.com**
 
 ⚡ Fun fact **I Think i'm funny too :)**
 <br/><br/>
