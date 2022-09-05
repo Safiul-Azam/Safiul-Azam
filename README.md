@@ -38,7 +38,7 @@
 
 <p align="left">
    <h1 align="center">Github Stats</h1>
-    <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Safiul-Azma&theme=blue-green&hide_border=true"></td>
+    <td colspan="2" align="center"></td>
       <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Safiul-Azam&theme=tokyonight&hide_border=true">
         <td><img alt="safiul-azam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Safiul-Azam&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
         
