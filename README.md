@@ -33,19 +33,15 @@
 </p>
 <h2></h2> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam)
-
 [![Safiul-Azam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="Safiul-Azam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Safiul-Azam&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="Safiul-Azam :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam&langs_count=14&theme=blue-green&layout=compact"></td>
+       <td><img alt="Safiul-Azam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Safiul-Azam&theme=merko&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="Safiul-Azam :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam&langs_count=14&theme=merko&layout=compact"></td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Safiul-Azam&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Safiul-Azam&theme=merko&hide_border=true"></td>
      </tr>
    </table>
