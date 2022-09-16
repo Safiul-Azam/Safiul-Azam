@@ -31,8 +31,14 @@
 <a href="https://www.linkedin.com/in/safiul-azam-b2a44a212/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Safiul-azam" height="25" width="30" /></a>
 <a href="https://www.facebook.com/safiul.azam.587/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiul-azam" height="25" width="30" /></a>
 </p>
-<br>
-<br>
+<h2></h2> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam)
+
+[![Safiul-Azam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <table>
    <h1 align="center">Github Stats</h1>
        <tr>
