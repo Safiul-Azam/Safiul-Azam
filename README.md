@@ -32,10 +32,14 @@
 <a href="https://www.facebook.com/safiul.azam.587/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiul-azam" height="25" width="30" /></a>
 </p>
 <br>
-<p align="left">
+<br>
+<table>
    <h1 align="center">Github Stats</h1>
-    <td colspan="2" align="center"></td>
-      <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Safiul-Azam&theme=tokyonight&hide_border=true">
-        <td><img alt="safiul-azam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Safiul-Azam&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-        
-</p>
+       <tr>
+       <td><img alt="Safiul-Azam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Safiul-Azam&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="Safiul-Azam :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safiul-Azam&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Safiul-Azam&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
