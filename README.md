@@ -37,7 +37,7 @@
 <h1></h1>
 <br> 
 
-[![Safiul-Azam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Safiul-Azam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
    <h1 align="center">Github Stats</h1>
