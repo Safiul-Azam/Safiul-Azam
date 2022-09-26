@@ -6,7 +6,7 @@
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/Safiul-Azam?label=Follow&style=social)](https://github.com/Safiul-Azam)&nbsp;![Profile views](https://gpvc.arturio.dev/Safiul-Azam)
+[![Github](https://img.shields.io/github/followers/Safiul-Azam?label=Follow&style=social)](https://github.com/Safiul-Azam)&nbsp;![Profile views](https://gpvc.arturio.dev/Safiul-Azam) ![age](https://img.shields.io/badge/age-25-blueviolet) ![living](https://img.shields.io/badge/living-Dhaka-Bangladesh)
 
 🌱 I’m currently learning [Redux](https://redux.js.org/)
 
