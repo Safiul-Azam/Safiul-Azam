@@ -34,7 +34,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Dev_Shahriyar" height="30" width="40" />
 </a>
 </p>
-<h1> </h1>
+<h1></h1>
 <br> 
 
 [![Safiul-Azam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Safiul-Azam&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
