@@ -15,7 +15,7 @@
 📫 How to reach me: **safiulazamriad@gmail.com**
 
 ⚡ Fun fact **I Think i'm funny too :)**
-<br/><br/>
+<br/> <br/>
 <h1 align="center"><img src = "https://i.ibb.co/Kbd0Zcp/logo-main.gif" width='40' height="30"/>&nbsp;Technologies that I know</h1>
 <br>
 <p align="center">
