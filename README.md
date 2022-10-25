@@ -3,8 +3,6 @@
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Safiul Azam</h1>
 
 <h2 align="center">Frontend Specialist</h2>
-<br />
-<br />
 
 [![Github](https://img.shields.io/github/followers/Safiul-Azam?label=Follow&style=social)](https://github.com/Safiul-Azam)&nbsp;![Profile views](https://gpvc.arturio.dev/Safiul-Azam) ![age](https://img.shields.io/badge/age-25-blueviolet) ![living](https://img.shields.io/badge/living-Dhaka-Bangladesh)
 
